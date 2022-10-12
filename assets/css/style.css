@@ -222,8 +222,8 @@
 .unit-price {
     font-size: 18px;
     padding: 15px;
-    font-weight: 500;
-    margin-right: 4%;
+    font-weight: 700;
+    margin-right: 5%;
 }
 .units{
     display: flex;
@@ -259,7 +259,11 @@
     margin: 30px;
     font-size: 16px;
     font-weight: 600;
-} 
+}
+.item-info h4 {
+    font-family: var(--fontfira);
+    font-size: 18px;
+}
 .header__navbar {
     padding: 10px;;
 }
